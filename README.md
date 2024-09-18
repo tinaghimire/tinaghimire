@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kristina Ghimire 👩🏾‍💻 </h1>
 <h3 align="center">ML enthusiast | Student at Tribhuvan University, IOE, Thapathali Campus</h3>
 
-::: {style="display: flex;"}
- <h2>About Me</h2>
- <p><span style="font-size: 18px;">Hello! I'm a Computer Engineer with a passion for Machine learning. Nice to meet you.</p>
+<h2>About Me</h2>
+ <p><span style="font-size: 18px;">Hello! I'm a Computer Engineer with a passion for Machine learning. Nice to meet you.</p><img src="assets/women_photo.png" alt="My Picture" width="200"/>
 
-::: {}
-
-:::
-<img src="assets/women_photo.png" alt="My Picture" width="200"/>
-::: {}
 
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tinaghimire&label=Profile%20views&color=0e75b6&style=flat" alt="tinaghimire" /> </p>
