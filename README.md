@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kristina Ghimire 👩🏾‍💻 </h1>
 <h3 align="center">ML enthusiast | Student at Tribhuvan University, IOE, Thapathali Campus</h3>
 
-:::: {style="display: flex;"}
+::: {style="display: flex;"}
  <h2>About Me</h2>
  <p><span style="font-size: 18px;">Hello! I'm a Computer Engineer with a passion for Machine learning. Nice to meet you.</p>
 
