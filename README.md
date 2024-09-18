@@ -1,10 +1,9 @@
-
 <h1 align="center">Hi 👋, I'm Kristina Ghimire 👩🏾‍💻 </h1>
 <h3 align="center">ML enthusiast | Student at Tribhuvan University, IOE, Thapathali Campus</h3>
 
-<table style="border: 0 solid black; border-collapse: collapse; width: 100%;">
+<table style="border: 0 solid black; border-collapse: collapse;">
   <tr>
-    <td style="border: 0px solid black; padding: 10px;">
+    <td style="border: 0px solid black;">
       <h2>My Intro</h2>
       <p><span style="font-size: 18px;">Hello! I'm a Computer Engineer with a passion for Machine learning. Nice to meet you.</p>
     </td>
