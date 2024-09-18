@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Kristina Ghimire 👩🏾‍💻 </h1>
-<h3 align="center">Machine Learning Enthusiast</h3>
+<h3 align="center">ML enthusiast | Student at Tribhuvan University, IOE, Thapathali Campus</h3>
 
 <table>
   <tr>
