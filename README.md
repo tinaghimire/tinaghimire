@@ -2,17 +2,17 @@
 <h1 align="center">Hi 👋, I'm Kristina Ghimire 👩🏾‍💻 </h1>
 <h3 align="center">Machine Learning Enthusiast</h3>
 
-<div style="display: flex;">
-
-  <!-- First column for intro -->
-  <div style="flex: 50%;">
-    Hello! I'm a Computer Engineer with a passion for Machine learning. Nice to meet you.
-  </div>
-
-  <!-- Second column for the image -->
-  <div style="flex: 50%;">
-    <img src="assets/women_photo.png" alt="My Picture" width="200"/>
-  </div>
+<table>
+  <tr>
+    <td>
+      <h2>About Me</h2>
+      <p> Hello! I'm a Computer Engineer with a passion for Machine learning. Nice to meet you.</p>
+    </td>
+    <td>
+      <img src="assets/women_photo.png" alt="My Picture" width="200"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tinaghimire&label=Profile%20views&color=0e75b6&style=flat" alt="tinaghimire" /> </p>
